@@ -46,7 +46,7 @@
 - **FrameWorks**:
 
     ![Tensorflow](https://img.shields.io/badge/logo-tensorflow-orange?logo=tensorflow)
-    ![Pytorch](https://img.shields.io/badge/logo-pytorch-orange?logo=pytorch)
+    ![Pytorch](https://img.shields.io/badge/logo-pytorch-red?logo=pytorch)
     
 <br>
   
@@ -122,7 +122,7 @@
 
 <li>
 <a href="mailto:Hamza.bouajila@enetcom.u-sfax.tn" target="_blank">
-<img src="https://img.shields.io/badge/logo-email-red?logo=gmail:  BouajilaHamza-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/email-black?logo=gmail" />
 </a>
 </li>
 	
