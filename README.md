@@ -111,14 +111,9 @@
 
 <li>
 <a href="https://www.linkedin.com/in/hamzabouajila/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  BouajilaHamza-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin-black?logo=linkedin"/>
 </a>
 </li>
-
-<br>
-
-
-<br>
 
 <li>
 <a href="mailto:Hamza.bouajila@enetcom.u-sfax.tn" target="_blank">
